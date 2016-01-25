@@ -33,7 +33,7 @@ If you want to ease your life and avoid the tidious task of writing HTML code ea
 
 First, install the Quicktext plugin for Thunderbird. To do that, open Thunderbird add-on menu. Search Quicktext and install the plugin. You will then find a Quicktext entry in the Tools menu.
 
-Open Quicktext and add a group called firstTemplate. Then add an entry to that group. In the editor, add some HTML code in the text editor (you could use one of the templates provided in this repo for example). And you're done!!!
+Open Quicktext and add a group called firstTemplate. Then add an entry to that group. In the editor, add some HTML code in the text editor (you could use one of the templates provided in this repo for example[^1]). And you're done!!!
 
 A new button will appear from now on when you write an email. Simply click it and Quicktext will add the HTML code to the email.
 
@@ -43,3 +43,8 @@ A new button will appear from now on when you write an email. Simply click it an
 ## Copyright
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
+
+
+
+[^1]: If you use one of my templates, don't forget to change the default signature values.
